@@ -213,8 +213,8 @@ footer,
 .hero-split{
     display :grid;
     place-items: center;
-    gap: 10%;
-    padding-block: 10rem;
+    gap: 40%;
+    padding-block: 5rem 20rem;
 }
 
 
