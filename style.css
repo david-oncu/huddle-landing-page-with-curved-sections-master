@@ -79,7 +79,12 @@ button{
     user-select: none;
 }
 
-
+label{
+    display: none;
+    user-select: none;
+    position: absolute;
+    color: transparent;
+}
 
 input{
     font-size: 1rem;
